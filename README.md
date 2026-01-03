@@ -22,23 +22,19 @@ The project follows a **real-world Data Analyst workflow**:
 
 ## 📂 Project Structure
 Superstore-Business-Performance-Analysis/
-│
-├── 1.Data_Cleaning/
-│ └── Superstore_Cleaned.xlsx
-│
-├── 2.SQL/
-│ ├── Sql_queries_1-10.sql
-│ └── Sql_queries_output_1-10/
-│
-├── 3.Power BI/
-│ └── Dashboards.pbix
-│
-├── 4.Dashboards/
-│ ├── Dashboard_1_Business_Performance.png
-│ ├── Dashboard_2_Customer_Profitability.png
-│ └── Dashboard_3_Discount_Optimization.png
-│
-└── README.md
+ 1.Data_Cleaning/
+   └── Superstore_Cleaned.xlsx
+2.SQL/
+  ├── Sql_queries_1-10.sql
+  └── Sql_queries_output_1-10/
+3.Power BI/
+  └── Dashboards.pbix
+4.Dashboards/
+  ├── Dashboard_1_Business_Performance.png
+  ├── Dashboard_2_Customer_Profitability.png
+  └── Dashboard_3_Discount_Optimization.png
+ 
+ ── README.md
  
  ## 🔍 Business Questions Answered (SQL)
 
@@ -164,3 +160,4 @@ Aspiring Data Analyst | SQL | Power BI | Excel
 
 ## ⭐ Support
 If you find this project useful, please ⭐ star the repository.
+
